@@ -1,4 +1,4 @@
-### Olá, meu nome é Diogo Alves.
+### Olá, meu nome é Diogo Loiola.
 
  <div>
   <a href="https://github.com/Diogoloiola">
